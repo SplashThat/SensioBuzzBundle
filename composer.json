@@ -12,13 +12,12 @@
         }
     ],
     "require": {
-        "php": ">=7.1.0",
-        "kriswallsmith/buzz": "> 0.16.1"
+        "kriswallsmith/buzz": "0.16.*"
     },
-    "target-dir": "Sensio/Bundle/BuzzBundle",
+    "target-dir": "Splash/Bundle/BuzzBundle",
     "autoload": {
         "psr-0": {
-            "Sensio\\Bundle\\BuzzBundle": ""
+            "Splash\\Bundle\\BuzzBundle": ""
         }
     }
 }
