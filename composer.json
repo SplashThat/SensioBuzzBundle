@@ -14,7 +14,6 @@
     "require": {
         "kriswallsmith/buzz": "0.16.*"
     },
-    "target-dir": "Splash/Bundle/BuzzBundle",
     "autoload": {
       "psr-4": { "Splash\\": "src/" }
     }
