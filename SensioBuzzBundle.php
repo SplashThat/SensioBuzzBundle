@@ -1,6 +1,6 @@
 <?php
 
-namespace Splash\Bundle\BuzzBundle;
+namespace Splash\BuzzBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

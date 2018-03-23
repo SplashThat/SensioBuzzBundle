@@ -1,6 +1,6 @@
 <?php
 
-namespace Splash\Bundle\BuzzBundle\DependencyInjection;
+namespace Splash\BuzzBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
