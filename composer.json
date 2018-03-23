@@ -15,6 +15,6 @@
         "kriswallsmith/buzz": "0.16.*"
     },
     "autoload": {
-      "psr-4": { "Splash\\": "src/" }
+      "psr-4": { "Splash\\": "/" }
     }
 }
