@@ -1,6 +1,6 @@
 <?php
 
-namespace Sensio\Bundle\BuzzBundle;
+namespace Splash\Bundle\BuzzBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

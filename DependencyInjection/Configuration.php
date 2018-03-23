@@ -1,6 +1,6 @@
 <?php
 
-namespace Sensio\Bundle\BuzzBundle\DependencyInjection;
+namespace Splash\Bundle\BuzzBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

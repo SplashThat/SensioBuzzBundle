@@ -31,7 +31,7 @@ Installing the bundle via packagist is the quickest and simplest method of insta
     {
         $bundles = array(
             // ...
-            new Sensio\Bundle\BuzzBundle\SensioBuzzBundle(),
+            new Splash\Bundle\BuzzBundle\SensioBuzzBundle(),
             // ...
         );
     }
